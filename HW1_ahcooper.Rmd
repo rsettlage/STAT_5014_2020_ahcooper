@@ -16,7 +16,7 @@ output: pdf_document
 3. I hope to gain enough confidence with basic git commands such that I can confidently utilize them without having to look them up.
 
 ## Part B
-
+### cool plots, I was actually asking for the pdf's in list format
 ```{r echo = F, fig.align = "center", fig.cap = "Beta Distribution (alpha = 2, beta = 3)"}
 alpha <- 2
 beta <- 3
